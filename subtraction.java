@@ -6,8 +6,8 @@ public class subtraction {
     public void change(int a) {
         System.out.println("Using merge this time instead of rebase");
     }
-    public void change3(int a)
-    {
+
+    public void change3(int a) {
         System.out.println("testing");
     }
 }
