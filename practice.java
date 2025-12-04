@@ -4,5 +4,6 @@ public class practice {
         System.out.println("one more change");
         System.out.println("Going to merge");
         System.out.println("Going to rebase");
+        System.out.println("Using stash");
     }
 }
