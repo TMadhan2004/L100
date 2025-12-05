@@ -4,5 +4,7 @@ public class practice {
         System.out.println("Added new features");
         System.out.println("Going to release");
 
+        System.out.println("Added a new feature");
+
     }
 }
