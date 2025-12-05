@@ -4,6 +4,7 @@ public class practice {
         System.out.println("Added new features");
         System.out.println("Release 1.2");
         System.out.println("Added a new feature");
+        System.out.println("Going to test squash merge");
 
     }
 }
