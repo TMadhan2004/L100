@@ -3,6 +3,7 @@ public class practice {
         System.out.println("Initial version of system");
         System.out.println("Added new features");
         System.out.println("Release 1.2");
+        System.out.println("Added a new feature");
 
     }
 }
